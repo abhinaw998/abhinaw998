@@ -1,4 +1,4 @@
-<h1 align="center">Welcom Aliens 👽 </h1>
+<h1 align="center">Welcome Aliens 👽 </h1>
 <h3 align="center">I am a passionate MERN stack developer from India 🇮🇳</h3>
 <img align="center" alt="Coding" width ="400"  src="coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaw998&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaw998" /> </p>
