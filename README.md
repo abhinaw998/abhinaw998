@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinaw Kumar</h1>
 <h3 align="center">A passionate MERN stack developer developer from India</h3>
-<img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align="cnter" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaw998&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaw998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinaw998" alt="abhinaw998" /></a> </p>
@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **React, Node, Mongo , Express, java**
 
-- 📫 How to reach me **abhinaw.kumar998@gmail.com**
 
 - ⚡ Fun fact **Doing mistakes 😂😜🤓**
 
